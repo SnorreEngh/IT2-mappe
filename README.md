@@ -16,7 +16,7 @@
     - objektorienterte modeller som beskriver programstruktur (UML-diagrammer)
     - representasjon av programflyt med kontrollstrukturer (flytdiagram)
     - brukervennlighet i programmer 
-    - [presentere data, kart og pyplot](./presentere data/presentere-data.md)
+    - [presentere data, kart og pyplot](./presentere-data/presentere-data.md)
 
 - Implementering (Errorhandling)
     - løsninger med programering 
