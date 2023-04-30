@@ -7,19 +7,17 @@
     - standarader for lagring, utveksling og sikring av data (smidig webapp)
     - brukervennlighet i informasjonssystemer (smidig webapp)
  <br />
- <br />
 - Problemløsning
     - metoder (fossefall, smidig, skippertak), teknikker og verktøy
     - alternative løsninger
     - objektorienterte programmer med klasser, arv og objekter (pygame)
-
-
+ <br />
 - Modellering og representasjon 
     - objektorienterte modeller som beskriver programstruktur (UML-diagrammer, pygame)
     - representasjon av programflyt med kontrollstrukturer (flytdiagram)
     - brukervennlighet i programmer (smidig webapp)
     - [presentere data, kart og pyplot](./presentere-data/presentere-data.md)
-
+ <br />
 - Implementering (Errorhandling)
     - løsninger med programering 
     - gjenbrukbar kode
