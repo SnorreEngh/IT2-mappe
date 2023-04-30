@@ -12,7 +12,7 @@
     - alternative løsninger
     - objektorienterte programmer med klasser, arv og objekter
 
-- Modellering og representasjon
+- Modellering og representasjon 
     - objektorienterte modeller som beskriver programstruktur (UML-diagrammer)
     - representasjon av programflyt med kontrollstrukturer (flytdiagram)
     - brukervennlighet i programmer 
