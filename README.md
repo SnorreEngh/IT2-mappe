@@ -6,9 +6,7 @@
     - [etiske dilemma og konsekvenser av bruk av IT (Tekst)](./Samfunn-og-systemer/Et-dystopisk-haap.md)
     - standarader for lagring, utveksling og sikring av data (smidig webapp)
     - brukervennlighet i informasjonssystemer (smidig webapp)
- <br>
- </br>
-  
+()
 - Problemløsning
     - metoder (fossefall, smidig, skippertak), teknikker og verktøy
     - alternative løsninger
@@ -20,11 +18,6 @@
     - representasjon av programflyt med kontrollstrukturer (flytdiagram)
     - brukervennlighet i programmer (smidig webapp)
     - [presentere data, kart og pyplot](./presentere-data/presentere-data.md)
-
-
-
-
-
 
 - Implementering (Errorhandling)
     - løsninger med programering 
