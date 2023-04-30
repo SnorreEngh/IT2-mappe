@@ -3,7 +3,7 @@
 ## Emner
 
 - Samfunn og systemer
-    - [etiske dilemma og konsekvenser av bruk av IT](./Samfunn-og-systemer/Et-dystopisk-håp.md)
+    - [etiske dilemma og konsekvenser av bruk av IT](./Samfunn-og-systemer/Et-dystopisk-haap.md)
     - standarader for lagring, utveksling og sikring av data
     - brukervennlighet i informasjonssystemer  
   
