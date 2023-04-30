@@ -21,6 +21,10 @@
     - [presentere data, kart og pyplot](./presentere-data/presentere-data.md)
 
 
+
+
+
+
 - Implementering (Errorhandling)
     - løsninger med programering 
     - gjenbrukbar kode
