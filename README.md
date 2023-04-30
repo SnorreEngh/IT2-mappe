@@ -3,9 +3,9 @@
 ## Emner
 
 - Samfunn og systemer
-    - [etiske dilemma og konsekvenser av bruk av IT](./Samfunn-og-systemer/Et-dystopisk-haap.md)
-    - standarader for lagring, utveksling og sikring av data
-    - brukervennlighet i informasjonssystemer  
+    - [etiske dilemma og konsekvenser av bruk av IT (Tekst)](./Samfunn-og-systemer/Et-dystopisk-haap.md)
+    - standarader for lagring, utveksling og sikring av data (smidig webapp)
+    - brukervennlighet i informasjonssystemer (smidig webapp)
   
 - Problemløsning
     - metoder (fossefall, smidig, skippertak), teknikker og verktøy
