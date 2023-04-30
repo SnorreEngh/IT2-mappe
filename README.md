@@ -3,7 +3,7 @@
 ## Emner
 
 - Samfunn og systemer
-    - etiske dilemma og konsekvenser av bruk av IT
+    - [etiske dilemma og konsekvenser av bruk av IT](./Samfunn-og-systemer/Et-dystopisk-haap.md)
     - standarader for lagring, utveksling og sikring av data
     - brukervennlighet i informasjonssystemer  
   
@@ -12,7 +12,7 @@
     - alternative løsninger
     - objektorienterte programmer med klasser, arv og objekter
 
-- Modellering og representasjon
+- Modellering og representasjon 
     - objektorienterte modeller som beskriver programstruktur (UML-diagrammer)
     - representasjon av programflyt med kontrollstrukturer (flytdiagram)
     - brukervennlighet i programmer 
