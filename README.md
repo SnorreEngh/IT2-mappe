@@ -12,12 +12,12 @@
 - Problemløsning
     - metoder (fossefall, smidig, skippertak), teknikker og verktøy
     - alternative løsninger
-    - objektorienterte programmer med klasser, arv og objekter (pygame)
+    - [objektorienterte programmer med klasser, arv og objekter (pygame)](./pygame/pygame.md)
     
  <br />
  
 - Modellering og representasjon 
-    - objektorienterte modeller som beskriver programstruktur (UML-diagrammer, pygame)
+    - [objektorienterte modeller som beskriver programstruktur (UML-diagrammer, pygame)](./pygame/pygame.md)
     - representasjon av programflyt med kontrollstrukturer (flytdiagram)
     - brukervennlighet i programmer (smidig webapp)
     - [presentere data, kart og pyplot](./presentere-data/presentere-data.md)
